@@ -699,12 +699,6 @@
                     Monitor regulatory requirements and advise on
                     required product compliance actions.
                 </li>
-
-                <li>
-                    Support regional certification governance and
-                    management reporting across the WAA region.
-                </li>
-
             </ul>
 
         </div>
@@ -755,6 +749,24 @@
                     regulatory workshops.
                 </li>
 
+                <li>
+                Led technical reviews and certification decision-making activities across 
+                a broad portfolio of electrical and electronic products, including household appliances, 
+                lighting products, machinery, IT/AV equipment, and other regulated consumer products.
+                </li>
+
+                <li>
+                   Established and maintained strategic relationships with regulators, accreditation bodies,
+                   certification organizations, laboratories, and industry stakeholders to support business growth, 
+                   regulatory engagement, and operational effectiveness.
+                </li>
+                
+                <li>
+                Played a key role in the initiation and establishment of a strategic joint-venture testing laboratory
+                for medical devices in India, supporting expansion into the healthcare conformity-assessment sector and 
+                strengthening the organization's future growth strategy.
+                </li>
+
             </ul>
 
         </div>
@@ -784,6 +796,11 @@
                     EER and CITC programs.
                 </li>
 
+                <li>
+                    Reviewed IT/AV, low-voltage electrical, household-appliance, lighting 
+                    and machinery products, including lifts and elevators.
+                </li>
+
             </ul>
 
         </div>
@@ -809,13 +826,22 @@
                 </li>
 
                 <li>
-                    Supported certification and safety-testing programs
-                    across multiple regulated product categories.
+                    Managed certification and safety-testing assignments under IECEE CB, 
+                    BIS CRS, ETL/UL and other schemes across lighting, household
+                    appliances, IT/AV, laboratory equipment and ATEX products.
                 </li>
 
                 <li>
                     Supported audits by international and local
-                    accreditation bodies.
+                    accreditation bodies including NABL, OSHA, IECEE CB, ANSI, IECEx and BIS.
+                </li>
+                <li>
+                    Delivered energy-efficiency testing programs for laptops, desktop computers,
+                    storage water heaters and televisions under BEE requirements.
+                </li>
+                <li>
+                     Tested AC-DC electronic control gear and LED drivers, including safety, reliability 
+                     and performance evaluation of lamps, luminaires and related products.
                 </li>
 
             </ul>
