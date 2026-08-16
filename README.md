@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
 
     <title>Kavish Indoria | Product Safety & Regulatory Affairs</title>
 
-    <meta name="description" content="Kavish Indoria – Product Safety, Regulatory Affairs, Conformity Assessment, Certification, Market Access and NPI & NPD professional.">
+    <meta name="description" content="Product Safety, Regulatory Affairs, Conformity Assessment, Certification, Market Access and NPI & NPD professional.">
 
     <style>
         * {
@@ -433,10 +432,7 @@
         </h2>
 
         <p>
-            10+ years of experience across product safety, certification,
-            conformity assessment, regulatory compliance, accreditation,
-            market access and new product development across Saudi Arabia,
-            GCC, UAE and India.
+        Regulatory Affairs and Product Safety leader with 10+ years of experience directing certification, conformity assessment, accreditation, and market-access strategies across Saudi Arabia, GCC, UAE, and India. Proven record of building certification organizations, leading multidisciplinary teams, managing relationships with regulatory authorities, and enabling commercialization of electrical and electronic products through global compliance programs.
         </p>
 
         <div class="buttons">
@@ -674,7 +670,31 @@
                     Coordinate certification activities across R&D,
                     design, testing, quality and external partners.
                 </li>
-
+                
+                <li>
+                    Support regional certification governance and
+                    management reporting across the WAA region.
+                </li>
+                
+                <li>
+                    Conduct compliance checks and specification reviews during development 
+                    and provide solutions aligned with relevant regulatory frameworks.
+                </li>
+                
+                <li>
+                    Prepare team reports and KPI updates for senior management, 
+                    helping track team performance and support business decisions. 
+                </li>
+                
+                <li>
+                    Lead compliance activities for the WAA region by coordinating 
+                    with teams and ensuring company policies are followed. 
+                </li>
+                
+                <li>
+                   Support the company's KSA patent-application process with headquarters
+                   and manage PLM, RDM and ALM platforms for efficient team operations
+                </li>
                 <li>
                     Monitor regulatory requirements and advise on
                     required product compliance actions.
