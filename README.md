@@ -979,7 +979,7 @@
                     Email
                 </a>
 
-                <a href="www.linkedin.com/in/kavish-indoria-884b308b/" target="_blank">
+                <a href="www.linkedin.com/in/kavish-indoria-884b308b" target="_blank">
                     LinkedIn
                 </a>
 
