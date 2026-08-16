@@ -933,7 +933,7 @@
                     Email
                 </a>
 
-                <a href="https://www.linkedin.com/" target="_blank">
+                <a href="[https://www.linkedin.com](https://www.linkedin.com/in/kavish-indoria)/" target="_blank">
                     LinkedIn
                 </a>
 
